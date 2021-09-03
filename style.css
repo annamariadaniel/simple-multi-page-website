@@ -1,0 +1,55 @@
+body {
+  font-family: Georgia , sans-serif;
+  margin: 60px 40px;
+  color: black;
+}
+
+nav {
+  display: inline-block;
+  width: 300px;
+  vertical-align: top;
+
+}
+
+section {
+  display: inline-block;
+  width: 700px;
+  border-left: 1px solid #cccac4;
+  padding-left: 60px;
+
+}
+
+p {
+  text-align: justify;
+  line-height: 25px;
+  margin: 20px 0;
+  text-indent: 10px;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: black;
+  line-height: 35px;
+  text-decoration: none;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-top: 40px;
+}
+
+img {
+  margin: 20px 0;
+}
+
+.university-img {
+  display: block;
+  margin: 50px auto;
+}
